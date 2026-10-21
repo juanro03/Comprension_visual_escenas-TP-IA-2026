@@ -4,8 +4,6 @@
 
 Trabajo práctico de la cátedra de **Inteligencia Artificial** — Ingeniería en Sistemas de Información, UTN Facultad Regional Córdoba (2026). Presentado en una competencia privada de Kaggle.
 
-![Detección con OWLv2](escenas-deteccion.png)
-
 ---
 
 ## ¿Qué hace?
