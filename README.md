@@ -104,4 +104,4 @@ Python · PyTorch · Hugging Face Transformers · torchvision · pycocotools · 
 
 **Juan Pedro Roldán** — Estudiante de Ingeniería en Sistemas de Información (UTN FRC)
 
-[Portfolio](https://juanpedroroldan.com.ar) · [LinkedIn](https://www.linkedin.com/in/juan-pedro-roldan/) · [GitHub](https://github.com/juanro03)
+[Portfolio](https://juanpedroroldan.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/juan-pedro-roldan/) · [GitHub](https://github.com/juanro03)
